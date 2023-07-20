@@ -232,6 +232,11 @@
      padding: 10px 240px;
      justify-content: center;
  }
+ 
+ .game-section:hover{
+    color: #F948B2;
+    border: 2px solid #FF42A5;
+ }
 
  .section-5 {
      display: flex;
