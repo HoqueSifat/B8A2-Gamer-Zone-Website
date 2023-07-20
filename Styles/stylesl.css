@@ -204,3 +204,53 @@
  .pera-4 {
      margin-left: 65px;
  }
+
+ .section-3 {
+     display: flex;
+     padding: 60px 240px;
+     justify-content: center;
+     gap: 265px;
+ }
+
+ .section-3-head {
+     margin-top: 135px;
+     margin-left: 140px;
+ }
+
+ .play-image {
+     position: relative;
+     bottom: 275px;
+ }
+
+ .play-image-2 {
+     width: 634.833px;
+     height: 650px;
+     margin-left: 145px;
+ }
+ .section-4{
+    display: flex;
+    padding: 10px 240px;
+    justify-content: center;
+ }
+.section-5{
+    display: flex;
+    padding: 30px 350px;
+}
+.section-4:hover{
+    
+}
+ .game-section {
+     display: flex;
+     width: 60px;
+     height: 60px;
+     gap: 15px;
+     color: #0B0223;
+     font-size: 20px;
+     font-weight: 600;
+     align-items: center;
+     width: 243px;
+     height: 80px;
+     border-radius: 50px;
+     border-color: palevioletred;
+ }
+
