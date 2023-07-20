@@ -3,3 +3,74 @@
  * {
      font-family: 'Work Sans', sans-serif;
  }
+
+ header {
+     background: #FFF;
+     padding: 20px 240px;
+ }
+
+ nav {
+     display: flex;
+ }
+
+
+ .gamer {
+     font-size: 45px;
+    
+
+ }
+
+ .game-image {
+     width: 85px;
+     height: 35px;
+     margin-right: 20px;
+     margin-bottom: 15px;
+ }
+
+ .nav-bar {
+     display: flex;
+     align-items: center;
+ }
+
+ #color {
+     color: palevioletred;
+ }
+
+ .nav-header {
+
+     justify-content: space-between;
+ }
+
+ nav>ul {
+     display: flex;
+ }
+
+ nav li {
+     list-style: none;
+     margin-right: 30px;
+     font-size: 18px;
+ }
+.lists{
+    align-items: center;
+}
+ nav li a {
+     text-decoration: none;
+     color: #3C354F;
+ }
+
+ .icone {
+     width: 33.916px;
+     height: 24px;
+     margin-left: 25px;
+ }
+
+ .li-background {
+     border-radius: 8px;
+     background: rgba(11, 2, 35, 0.10);
+     display: flex;
+     width: 265px;
+     height: 25px;
+     padding: 18px 24px;
+     align-items: center;
+ }
+ 
